@@ -170,14 +170,6 @@ return(
         linkDetail="https://heer-patel-portfolio.herokuapp.com/"
     />
     </section>
-    
-    {/* Certification */}
-    <h2 className="headName" data-aos="fade-in">Certifications</h2>
-    <Project
-        number={"**"}
-        title={"Azure AZ900"}
-        aboutDescription={"Credential ID A53C208073F1D9E0Credential"}
-    />
 
     {/* blog */}
     <h2 className="headName" data-aos="fade-in">Blog</h2>
