@@ -119,7 +119,7 @@ return(
         technology={"React + NodeJS + SQL + Postman + Agile Methodology"}
         github="true"
         githubLink={"https://github.com/heerpatell/BakeryShop"}
-        aboutDescription={" Engineered a scheduling platform enabling organizers to share custom scheduling links with invitees for efficient meeting coordination. Built visually consistent frontend using React.js and Material UI, incorporating state management with hooks and reusable components for availability grids. Created detailed  prototypes in Figma to design intuitive user flows"}
+        aboutDescription={"Built a platform connecting bakeries and customers, enabling location-based discovery, profile browsing, and order placement. Developed a responsive frontend using React.js, ensuring seamless navigation and an engaging user experience. Designed RESTful APIs integrated with a NoSQ database for scalable data operations, with Node.js as the API gateway to manage backend logic and routing"}
         video="true"
         vlink='https://drive.google.com/file/d/1p6IxDp9X6L8IGGlwODssgUIUkLbT5XEU/view?usp=sharing'
     />

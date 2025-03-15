@@ -115,17 +115,6 @@ return(
 
     <Project
         number={"03"}
-        title={"SyncWell"}
-        technology={"React + NodeJS + SQL + Postman + Agile Methodology"}
-        github="true"
-        githubLink={"https://github.com/heerpatell/BakeryShop"}
-        aboutDescription={" Engineered a scheduling platform enabling organizers to share custom scheduling links with invitees for efficient meeting coordination. Built visually consistent frontend using React.js and Material UI, incorporating state management with hooks and reusable components for availability grids. Created detailed  prototypes in Figma to design intuitive user flows"}
-        video="true"
-        vlink='https://drive.google.com/file/d/1p6IxDp9X6L8IGGlwODssgUIUkLbT5XEU/view?usp=sharing'
-    />
-
-    <Project
-        number={"03"}
         title={"for primary school students"}
         technology={"Unity , C#"}
         whatIDid={"Half Module (Capital alphabet module with Phonic &Visual Effect ,added Translation ,Animation)"}

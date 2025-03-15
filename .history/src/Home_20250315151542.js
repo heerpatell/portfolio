@@ -99,7 +99,7 @@ return(
         technology={"Matlab, Python, C++"}
         github="false"
         // githubLink={"https://github.com/heerpatell/BakeryShop"}
-        aboutDescription={"Pseudolite & NavIC combined user position algorithm has been proposed by using conventional GNSS iterative algorithm. Novelty of the approach is that the combined user position algorithm works perfectly well with the iterative approach once initial guess at very first time instance is provided from only NavIC system. Position accuracy & Dilution Of Precision (DOP) results are presented for only NavIC & combined Pseudolite & NavIC scenarios. Integrated NavIC & Pseudolite system can be very useful combination for the applications such as landing of the aircraft, Re-usable Launch Vehicle (RLV) landing, mining or in GNSS obstructed environment."}
+        aboutDescription={"Did Last semester internship @ ISRO(Indian Space Research and Organisation). Carried out research and wrote a research paper on Combination of NavIC and Pseudolite positioning algorithms which finds applications in a myriad of areas such as automatic landing of aircraft, landing of Reusable launch vehicle, mining, GNSS obstructed environments (inside long tunnels) coastal and marine environment"}
     />
 
     <Project
@@ -108,18 +108,7 @@ return(
         technology={"MERN Stack"}
         github="true"
         githubLink={"https://github.com/heerpatell/BakeryShop"}
-        aboutDescription={"Built a platform connecting bakeries and customers, enabling location-based discovery, profile browsing, and order placement. Developed a responsive frontend using React.js, ensuring seamless navigation and an engaging user experience. Designed RESTful APIs integrated with a NoSQ database for scalable data operations, with Node.js as the API gateway to manage backend logic and routing"}
-        video="true"
-        vlink='https://drive.google.com/file/d/1p6IxDp9X6L8IGGlwODssgUIUkLbT5XEU/view?usp=sharing'
-    />
-
-    <Project
-        number={"03"}
-        title={"SyncWell"}
-        technology={"React + NodeJS + SQL + Postman + Agile Methodology"}
-        github="true"
-        githubLink={"https://github.com/heerpatell/BakeryShop"}
-        aboutDescription={" Engineered a scheduling platform enabling organizers to share custom scheduling links with invitees for efficient meeting coordination. Built visually consistent frontend using React.js and Material UI, incorporating state management with hooks and reusable components for availability grids. Created detailed  prototypes in Figma to design intuitive user flows"}
+        aboutDescription={"The project  Bakers is a Web Application which is proposed in order to provide ease to bakers who bake cakes at their pace and provide it to customers"}
         video="true"
         vlink='https://drive.google.com/file/d/1p6IxDp9X6L8IGGlwODssgUIUkLbT5XEU/view?usp=sharing'
     />
@@ -161,6 +150,18 @@ return(
 
     <Project
         number={"06"}
+        title={"CA Website"}
+        technology={"Bootstrap (Web Designing | Internship)"}
+        github="true"
+        githubLink={"https://github.com/heerpatell/CA_website"}
+        aboutDescription={"This website was made as a part of internship."}
+        whatIDid={"Built 3 modules among 7"}
+        teammember={"4"}
+        link="true"
+    />
+
+    <Project
+        number={"07"}
         title={"Portfolio"}
         technology={"React Js"}
         github="true"
