@@ -75,11 +75,17 @@ return(
                 <div className='meHeading' data-aos="fade-in">Me and Myself</div>
                 <div className='aboutPara' >
                     <div data-aos="zoom-out-up">
-                    Hi, I'm Heer, a software engineer passionate about building scalable and user-friendly applications. My expertise lies in React, TypeScript, JavaScript, and UI prototyping, along with backend development using .NET and Node.js.
+                    Graduate Enginnering tech-savvy student who's passionate about applying  
+                    problem solving skills and learning tech stuff.
+                    I possess self-motivated, well-organised personality 
+                    when it comes to develope projects. 
                     <br/><br/>
-                    I hold a Master’s degree in Electrical and Computer Engineering from the University of Waterloo and have hands-on experience in cloud technologies, data integration, and full-stack development. In addition to software development, I have a strong understanding of data processing, analysis, and visualization, enabling me to extract meaningful insights from raw data. I am also proficient in Power BI, helping transform complex datasets into actionable business intelligence.
+                    My zeal for vector art encourages me for illustration. 
+                    Besides tech stuff I like to pass my leisure times in outdoor activities 
+                    ,cooking ,binge watching ,learning new softwares.
                     <br/><br/>
-                    I'm always exploring new technologies and expanding my expertise in Node.js, .NET, and Azure to stay ahead in the ever-evolving tech landscape. I enjoy working across the full stack, from designing seamless user interfaces to developing robust backend systems, ensuring efficiency, scalability, and innovation in every solution I build.
+                    I did my bachelors in computer engineering from Charusat University(2019-2023).
+                    Currently I am pursuing my masters in engineering in Electrical and Computer engineering from University of Waterloo(2023-2025).
                     </div>
                     <div className='lineVertical'></div>
                 </div>
